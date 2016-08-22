@@ -1,0 +1,62 @@
+[
+		{
+			"src":"/Users/HeLL/Documents/Practice/Images/guitar1.jpeg",
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar1.thumb.jpg", 
+			"desc": "Gibson USA SR series limited edition models feature a timeless original Gibson neck 
+			width and a vintage-style set of tuning machines. Take advantage . ",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "	
+			"summary":"Gibson USA SR series limited edition models feature a timeless original Gibson neck width and a vintage-style 
+			set of tuning machines. Take advantage of this opportunity to grab a rare and limited rendition of one of Gibson USA's iconic 
+			Les Paul models with traditional-spec features not available on 2015 production guitars.
+
+			The Sprint Run Les Paul Studio retains the ethos of the superior-value and hugely popular Studio series, while adding s
+			tylish appointments and a marriage of traditional and innovative appointments to create a tremendously appealing American-made 
+			guitar at an outstanding price. Quantities of these highly-collectible guitars available in North America are extremely limited, 
+			so claim yours today before they are gone.
+
+			Available finishes:
+			Desert Burst (Total quantity available in North America: 350)
+			Manhattan Midnight (Total quantity available in North America: 291)
+			Wine Red (Total quantity available in North America: 202)
+
+			Each new Gibson SR Series instrument is warranted to be free from defects in materials and 
+			workmanship for the life of the original retail purchaser and includes a stylish deluxe Gibson molded 
+			case designed to offer maximum protection for your valuable investment."
+		},
+		{	
+			"src":"/Users/HeLL/Documents/Practice/Images/guitar2.jpg", 
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar2.thumb.jpg", 
+			"desc": "Gibson USA SR series limited edition models feature a timeless original Gibson neck width and a vintage-style set of tuning machines. Take advantage ",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "
+		},
+		{
+			"src":"/Users/HeLL/Documents/Practice/Images/guitar3.jpg", 
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar3.thumb.jpg", 
+			"desc": "Taking design and visual cues from the Les Paul models of the '80s and '90s, the Les Paul Traditional Pro III features powerful pickups with push/pus ",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "
+		},
+		{
+			"src":"/Users/HeLL/Documents/Practice/Images/guitar4.jpg", 
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar4.thumb.jpg", 
+			"desc": "Steeped in tradition, the 2016 Les Paul Standard T has all the ingredients that have made the Les Paul such a desirable guitar, and one of the most l ",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "
+		},
+		{
+			"src":"/Users/HeLL/Documents/Practice/Images/guitar5.jpeg", 
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar5.thumb.jpg", 
+			"desc": "Gibson USA SR series limited edition models feature a timeless original Gibson neck width and a vintage-style set of tuning machines. Take advantage ",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "
+		},
+		{	"src":"/Users/HeLL/Documents/Practice/Images/guitar6.jpeg", 
+			"thumb":"/Users/HeLL/Documents/Practice/Images/guitar6.thumb.jpg", 
+			"desc": "In celebration of Rush's 40th Anniversary, Gibson Custom presents the Limited Edition Alex Lifeson R40 Les Paul Axcess offered in a run of 200 guitar.",
+			"name":"Gibson 2015 Les Paul Studio SR ",
+			"price": "MSRP: $2,048.00 "
+		}
+
+	];

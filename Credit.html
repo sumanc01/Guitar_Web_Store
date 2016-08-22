@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang = "en" ng-app = "gallApp">
+<head>
+<meta charset = "utf-8"/>
+<title> PayInfo </title>
+<meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+<script src="http://code.angularjs.org/1.2.0rc1/angular-animate.min.js"></script>
+<script src = "https://code.angularjs.org/1.4.3/angular-route.js"></script>
+<script type = "text/javascript" src = "/Users/HeLL/Documents/Practice/guitar.js"> </script>
+<link rel = "stylesheet" href = "credit.css">
+
+
+<style type = "text/css"></style>
+
+</head>
+
+<body>
+
+	<header>
+		<h2> BILLING INFORMATION </h2>
+	</header>
+
+	<div id = "pay">
+
+		<h2> Enter your payment details below </h2>
+
+
+		<h3> Payment Options: </h3>
+
+	<div class = "radio-inline">
+		<input type = "radio" id = "inlineRadio1" name = "inlineRadioOptions" value = "VISA"> VISA 
+		<input type = "radio" id = "inlineRadio2" name = "inlineRadioOptions" value = "MASTERCARD"> MASTERCARD
+		<input type = "radio" id = "inlineRadio3" name = "inlineRadioOptions" value = "AMERICAN EXPRESS"> AMERICAN EXPRESS
+		<input type = "radio" id = "inlineRadio4" name = "inlineRadioOptions" value = "DISCOVER"> DISCOVER
+		<input type = "radio" id = "inlineRadio5" name = "inlineRadioOptions" value = "PAYPAL"> PAYPAL
+
+	</div>
+
+		<hr>		  		    
+		<br>	  		    
+
+		
+
+
+			<h3> Credit Card Information: </h3><br><br>
+
+		<form id = "creditCard">
+				First Name: <input type = "text" id = "fn" name = "First Name" class = "mytext" placeholder = "Enter your First Name">
+				Last Name: <input type = "text" id = "ln" name = "Last Name" class = "mytext" placeholder = "Enter your Last Name"> <br><br>
+				Credit Card Number: <input type = "text" id = "cc" name = "Credit Card" class = "mytext" placeholder = "Enter your Card Number" maxlength = "16"> <br><br>
+				Card Expiration : <input type = "month" id = "exp" name = "Expire"> <br><br>
+				Code: <input type = "text" id = "co" name = "Code" placeholder = "CCV" class = "mytext1" maxlength = "3"> <br><br>
+			
+			
+
+			<hr>
+
+			<h3>Billing Address: </h3><br><br>	
+
+			
+				Street Address: <input type = "text" id = "sa" name = "Street Add" class = "street"> <br><br>
+				City: <input type = "text" id = "city" name = "City Name" class = "state"><br><br>
+				State/Province/Region: <input type = "text" id = "state" name = "State Name" class = "state"> <br><br>
+				Postal/Zip Code : <input type = "text" id = "post" name = "Zip Number" class = "pZip" maxlength = "5"> <br><br>
+				Country: <select class = "form-control"><option></option></select> <br><br><br>
+
+			<input class="btn btn-default" type="submit" value="Submit" >
+
+		</form>
+
+		<br><br>
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>	
